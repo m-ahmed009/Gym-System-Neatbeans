@@ -53,10 +53,12 @@ We welcome contributions to enhance the functionality of this application. If yo
 
 
 
-![image](https://github.com/user-attachments/assets/dc1e5229-e3dc-41aa-a178-afe8b2a275f7)
+![image](https://github.com/user-attachments/assets/bca5c245-bceb-45f9-922a-a32da2389324)
 
 
-![image](https://github.com/user-attachments/assets/220578a5-3ba1-4657-8d88-55d123235d85)
+
+![image](https://github.com/user-attachments/assets/2b2f7e73-3f4c-427f-8b2c-e16a722971fc)
+
 
 
 ![image](https://github.com/user-attachments/assets/af7e59b9-48ff-42bf-9f31-2d78a6663598)
